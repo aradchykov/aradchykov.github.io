@@ -1,0 +1,40 @@
+
+.row {
+    width: 100%;
+}
+
+.col-lg-4 {
+    width: 33%;
+    float: right;
+    border: 1px solid green;
+}
+
+.col-container {
+    width: 90%;
+    background-color: red;
+    margin: auto;
+    padding: auto;
+}
+
+div.row > div {
+    positioning: relative;
+}
+
+.title {
+    float: right;
+    background-color: #00FFFF;
+    width: 100px;
+    height: 30px;
+    margin: 0;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.content {
+    clear: right;
+}
+
+.container {
+    margin: 0;
+}
